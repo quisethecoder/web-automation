@@ -1,7 +1,7 @@
 # Puppeteer Credit Card Form Automation 
 
 This project demonstrates how to use Puppeteer to automate filling out a credit card form. The script leverages the puppeteer-extra library with the stealth plugin to avoid detection.
-Built with Node.js
+
 
 ![Screen Shot 2024-08-10 at 11 53 42 PM](https://github.com/user-attachments/assets/f49162c6-d3ba-42a7-9f21-eb2792577caa)
 
